@@ -1,0 +1,15 @@
+.countdown{
+  text-align: center;
+}
+
+.countdown span:last-child{ 
+    width: 20rem;
+    background-color: #111;
+    border-radius: 50%;
+    display: inline-block;
+    color:#FFF;
+}
+
+.countdown span:last-child strong{
+  font-size: 18rem;
+}
